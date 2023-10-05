@@ -1,7 +1,7 @@
 //linear ...
 #include<stdio.h>
 
-void main()
+int main()
 {
 	
 	int key,size,top,bottom,middle;
@@ -32,5 +32,5 @@ int	a[5]={12,10,34,56,89};
    	}
 		
 	}
-	
+	return 0;
 }
