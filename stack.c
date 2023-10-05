@@ -1,5 +1,6 @@
 //stack....
 #include<stdio.h>
+#include<stdlib.h>
 #define SIZE 4
 
 int top = -1, inp_array[SIZE];
