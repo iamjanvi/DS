@@ -36,6 +36,7 @@ int main()
             printf("\nInvalid choice!!");
         }
     }
+return 0;
 }
 
 void push()
@@ -81,3 +82,11 @@ void show()
             printf("%d\n", inp_array[i]);
     }
 }
+
+
+
+
+
+
+
+
