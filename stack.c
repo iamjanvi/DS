@@ -30,8 +30,8 @@ int main()
         case 3:
             show();
             break;
-       // case 4:
-         //    exit ();
+       case 4:
+           exit (0);
 
         default:
             printf("\nInvalid choice!!");
